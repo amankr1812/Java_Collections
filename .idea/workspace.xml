@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e038634-2fe1-4ece-82e0-5fcd7bee3252" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MapCollectionTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2kkcF9D2nM3KLFEueW8wgQ3RPAO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,6 +47,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Personal/Projects/Java_Collections",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
