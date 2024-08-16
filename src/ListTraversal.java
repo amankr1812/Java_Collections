@@ -6,7 +6,7 @@ public class ListTraversal {
 
     public static void main(String[] args){
 
-        System.out.println("\n Traversal Examples !!");
+        System.out.println("\n List Traversal Examples !!");
 
         // Array List declaration & traversal
 

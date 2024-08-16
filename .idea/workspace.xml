@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e038634-2fe1-4ece-82e0-5fcd7bee3252" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ListCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SetCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapCollectionTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StartCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,9 @@
   "keyToString": {
     "Application.JavaCollections.executor": "Run",
     "Application.ListCollection.executor": "Run",
+    "Application.MapCollectionTraversal.executor": "Run",
     "Application.SetCollection.executor": "Run",
+    "Application.SetTraversal.executor": "Run",
     "Application.StartCode.executor": "Run",
     "Application.Traversal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -52,7 +54,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ListTraversal">
+  <component name="RunManager" selected="Application.MapCollectionTraversal">
     <configuration name="ListCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListCollection" />
       <module name="Java_Collections" />
@@ -67,6 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MapCollectionTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapCollectionTraversal" />
+      <module name="Java_Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SetCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SetCollection" />
       <module name="Java_Collections" />
@@ -74,8 +83,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetTraversal" />
+      <module name="Java_Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapCollectionTraversal" />
+        <item itemvalue="Application.SetTraversal" />
         <item itemvalue="Application.ListTraversal" />
         <item itemvalue="Application.ListCollection" />
         <item itemvalue="Application.SetCollection" />

@@ -6,7 +6,7 @@ public class ListCollection {
 
     public static void main(String[] args){
 
-        System.out.println("Java List Collections !!");
+        System.out.println("\nJava List Collections !!");
 
         /*
         Creating Collections, 2 ways
